@@ -1,3 +1,3 @@
-def test1(name,age):
-    print(name)
-    return name
+def test1(name1,age):
+    print(name1)
+    return name1
